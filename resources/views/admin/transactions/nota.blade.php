@@ -57,8 +57,8 @@
 <body onload="window.print()">
     <button class="btn-print" style="position: absolute; right: 1rem; top: rem;" onclick="window.print()">Print</button>
     <div class="text-center">
-        <h3 style="margin-bottom: 5px;">Nama Perusahaan</h3>
-        <p>Alamat</p>
+        <h3 style="margin-bottom: 5px;">Depot Air Isi Ulang Kamangen</h3>
+        <p>Karombasan Selatan lingk. 2, No. 50, Kec. Wanea, Kota Manado</p>
     </div>
     <br>
     <div>
