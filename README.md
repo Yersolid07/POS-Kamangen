@@ -31,7 +31,7 @@ Aplikasi Point of Sale (POS) untuk manajemen penjualan depot air minum dengan fi
 1. Clone repositori ini
 
 ```bash
-git clone [url-repositori]
+git clone https://github.com/Yersolid07/POS-Kamangen.git
 ```
 
 2. Install dependensi PHP menggunakan Composer
@@ -261,5 +261,4 @@ php artisan optimize:clear
 
 Untuk bantuan teknis, silakan hubungi:
 
--   Email: [email support]
--   Telepon: [nomor telepon]
+-   Email: jeremiaturangan@gmail.com
